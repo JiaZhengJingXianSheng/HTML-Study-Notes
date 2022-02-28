@@ -24,7 +24,6 @@
     + [搜索框滑块和简单验证](#----------)
     + [表单初级验证](#------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## 网页基本信息
 
