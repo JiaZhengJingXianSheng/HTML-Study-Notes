@@ -1,7 +1,7 @@
 # HTML-Study-Notes
 # HTML 超文本标记语言
 
-[TOC]
+@[TOC]
 
 ## 网页基本信息
 
